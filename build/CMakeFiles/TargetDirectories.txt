@@ -1,3 +1,0 @@
-D:/Cpp_code/Cpp_Stl/build/CMakeFiles/test.dir
-D:/Cpp_code/Cpp_Stl/build/CMakeFiles/edit_cache.dir
-D:/Cpp_code/Cpp_Stl/build/CMakeFiles/rebuild_cache.dir
